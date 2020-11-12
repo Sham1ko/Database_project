@@ -1,4 +1,4 @@
 # database_project
 Database for Library management system
 
-![ERD](ERD.PNG)
+![ERD.PNG]
